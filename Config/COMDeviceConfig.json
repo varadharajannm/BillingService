@@ -1,0 +1,1 @@
+{"DevicePortName":"com3","VirtualDevices":[{"DeviceName":"Device1","IPAddress":"192.168.1.101","VirtualPortName":"COMA1"},{"DeviceName":"Device2","IPAddress":"192.168.1.102","VirtualPortName":"COMA2"},{"DeviceName":"Device3","IPAddress":"192.168.1.103","VirtualPortName":"COMA3"}]}

@@ -1,0 +1,16 @@
+1. Basic Requirements
+
+Vendor Device
+     ||
+
+COM_R_A1<->COM_W_A1 === COM_R_B1<->COM_W_B1
+
+     ||
+
+Balaji Device
+
+----------------------------------------------------------
+2. Working flow
+     
+   Vendor Device        varadha service      Balaji Device
+{COM_R_A1,COM_W_B1} = {COM_W_A1,COM_R_B1} =  COM1

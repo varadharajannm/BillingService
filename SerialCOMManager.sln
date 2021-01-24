@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialCOMManager", "SerialCOMManager\SerialCOMManager.csproj", "{C85415B6-9EE2-4AD7-930C-5DCD771C3530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComIntermediateService", "ComIntermediateService\ComIntermediateService\ComIntermediateService.csproj", "{3F831824-A33C-462B-879C-61CF6105E545}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SerialCOMMangerSetup", "SerialCOMMangerSetup\SerialCOMMangerSetup.vdproj", "{567ADDE7-84A0-4F17-B4E9-07734B948FF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialManagerCommon", "SerialManagerCommon\SerialManagerCommon.csproj", "{B22F1178-3E7C-4B8D-840E-D1896215D9C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C85415B6-9EE2-4AD7-930C-5DCD771C3530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85415B6-9EE2-4AD7-930C-5DCD771C3530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85415B6-9EE2-4AD7-930C-5DCD771C3530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85415B6-9EE2-4AD7-930C-5DCD771C3530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F831824-A33C-462B-879C-61CF6105E545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F831824-A33C-462B-879C-61CF6105E545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F831824-A33C-462B-879C-61CF6105E545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F831824-A33C-462B-879C-61CF6105E545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{567ADDE7-84A0-4F17-B4E9-07734B948FF2}.Debug|Any CPU.ActiveCfg = Debug
+		{567ADDE7-84A0-4F17-B4E9-07734B948FF2}.Release|Any CPU.ActiveCfg = Release
+		{B22F1178-3E7C-4B8D-840E-D1896215D9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22F1178-3E7C-4B8D-840E-D1896215D9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22F1178-3E7C-4B8D-840E-D1896215D9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22F1178-3E7C-4B8D-840E-D1896215D9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
